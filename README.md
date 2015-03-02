@@ -5,7 +5,7 @@ The main reason that we've done this module, is that currently Nginx not providi
 give a more power in application monitoring process.<br/>
 
 # Installation
-For installing this module you will need just to make a <code>git clone https://github.com/flaxtonio/ngx-flaxton-logger</code>
+For installing this module you will need just to make a <code>git clone https://github.com/flaxtonio/nginx-flaxton-logger-module</code>
 .<br/>
 After you will have a code for this module, install it as a usual Nginx module, by configuring it with Nginx source
 ```bash
